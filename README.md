@@ -34,7 +34,7 @@
 - [Contributing](#contributing)
   - [Creating A Pull Request](#creating-a-pull-request)
 - [Authors🚀](#authors)
-- [Fellow Contributore](#fellow-contributors)
+- [Fellow Contributors](#fellow-contributors)
 - [Connect with me:](#connect-with-me)
   
 
