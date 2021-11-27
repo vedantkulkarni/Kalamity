@@ -34,6 +34,7 @@
 - [Contributing](#contributing)
   - [Creating A Pull Request](#creating-a-pull-request)
 - [Authors🚀](#authors)
+- [Fellow Contributore](#fellow-contributors)
 - [Connect with me:](#connect-with-me)
   
 
@@ -80,7 +81,7 @@
 
 
 
-## Contributing:hugs:
+## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 * If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/vedantkulkarni/MealsApp/issues/new) to discuss it, or directly create a pull request after you edit the project file with necessary changes.
@@ -101,6 +102,14 @@ Contributions are what make the open source community such an amazing place to b
 ## Authors
 
 * **Vedant Kulkarni** - *Information Technology Student* - [Vedant Kulkarni](https://github.com/vedantkulkarni) 
+
+
+## Fellow Contributors
+
+* [Harshwardhan Atkare](https://github.com/Harshwardhan431)
+* [Yash Sonawne](https://github.com/yashss1)
+* Yash Pande
+
 
 
 ## Connect with me:
