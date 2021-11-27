@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/vedantkulkarni/MealsApp">
-    <img src="Tech4bit\Kalmity-logo.jpeg" alt="Logo" width="100" height="100">
+    <img src="[Tech4bit\Kalmity-logo.jpeg](https://github.com/vedantkulkarni/Tech4bit/blob/main/Kalmity-logo.jpeg)" alt="Logo" width="100" height="100">
   </a>
 
   <h1 align="center">Kalamity</br><h2 align = "center">Disaster Management App</h2></h1>
