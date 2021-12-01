@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/vedantkulkarni/MealsApp">
-    <img src="https://github.com/vedantkulkarni/Tech4bit/blob/main/Kalmity-logo.png" alt="Logo" width="100" height="100">
+    <img src="https://github.com/vedantkulkarni/Kalamity/blob/main/Kalmity-logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h1 align="center">Kalamity</br><h2 align = "center">Disaster Management App</h2></h1>
@@ -67,10 +67,10 @@
 
 ## Screenshots 🚀
 <div align >
-<img src="https://github.com/vedantkulkarni/Tech4bit/blob/main/images/SignInSS.png" width=300 height=600>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vedantkulkarni/Tech4bit/blob/main/images/signUpss.png" width=300 height=600>&nbsp;&nbsp;
+<img src="https://github.com/vedantkulkarni/Kalamity/blob/main/images/SignInSS.png" width=300 height=600>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vedantkulkarni/Kalamity/blob/main/images/signUpss.png" width=300 height=600>&nbsp;&nbsp;
 </div></br></br>
 <div align ="right">
-<img src="https://github.com/vedantkulkarni/Tech4bit/blob/main/images/landingSS.png" width=300 height=600>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vedantkulkarni/Tech4bit/blob/main/images/earthquakess.png" width=300 height=600>&nbsp;&nbsp;
+<img src="https://github.com/vedantkulkarni/Kalamity/blob/main/images/landingSS.png" width=300 height=600>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vedantkulkarni/Kalamity/blob/main/images/earthquakess.png" width=300 height=600>&nbsp;&nbsp;
 </div>
 
 
