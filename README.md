@@ -66,8 +66,11 @@
 
 
 ## Screenshots 🚀
-<div align ="center">
-<img src="https://github.com/vedantkulkarni/MealsApp/blob/master/screenshots/WhatsApp%20Image%202021-10-21%20at%2011.38.52%20PM.jpeg" width=300 height=550>&nbsp;&nbsp;<img src="https://github.com/vedantkulkarni/MealsApp/blob/master/screenshots/WhatsApp%20Image%202021-10-21%20at%2011.38.02%20PM%20(2).jpeg" width=300 height=550>&nbsp;&nbsp;<img src="https://github.com/vedantkulkarni/MealsApp/blob/master/screenshots/WhatsApp%20Image%202021-10-21%20at%2011.38.02%20PM.jpeg" width=300 height=550>
+<div align >
+<img src="https://github.com/vedantkulkarni/Tech4bit/blob/main/images/SignInSS.png" width=300 height=600>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vedantkulkarni/Tech4bit/blob/main/images/signUpss.png" width=300 height=600>&nbsp;&nbsp;
+</div></br></br>
+<div align ="right">
+<img src="https://github.com/vedantkulkarni/Tech4bit/blob/main/images/landingSS.png" width=300 height=600>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vedantkulkarni/Tech4bit/blob/main/images/earthquakess.png" width=300 height=600>&nbsp;&nbsp;
 </div>
 
 
